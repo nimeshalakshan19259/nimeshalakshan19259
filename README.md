@@ -10,7 +10,7 @@ nimeshalakshan19259/nimeshalakshan19259 is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hello...!🙋‍♂️, I'm Nimesha Lakshan 🤘 </h1>
+<h1 align="center">Hello...!🙋‍♂️, I'm Nimesha Lakshan Peragolla🤘 </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshalakshan19259&label=Profile%20views&color=b60e21&style=flat" alt="nimeshalakshan19259"/> </p>
