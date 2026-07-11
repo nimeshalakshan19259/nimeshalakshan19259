@@ -1,69 +1,87 @@
-<!----
-- 👋 Hi, I’m @nimeshalakshan19259
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b60e21,100:1a1a1a&height=220&section=header&text=Nimesha%20Lakshan%20Peragolla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Vector%20Artist%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" width="100%"/>
 
-nimeshalakshan19259/nimeshalakshan19259 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://komarev.com/ghpvc/?username=nimeshalakshan19259&label=Profile%20Views&color=b60e21&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-b60e21?style=for-the-badge" alt="status"/>
 
-<h1 align="center">Hello...!🙋‍♂️, I'm Nimesha Lakshan Peragolla🤘 </h1>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshalakshan19259&label=Profile%20views&color=b60e21&style=flat" alt="nimeshalakshan19259"/> </p>
-
-<hr style="width:50%;text-align:left;margin-left:0;color:red;background-color:#b60e21">
-
-
-
-- 💻 Currently Learning Android Application Development & Vector Arts
-- 👀 Looking to collaborate with Open Source Projects.
-- 😎 Never stop Dreaming...✨
-- 📫 How to contact me **nimeshaanuhas@gmail.com**
-- 🎮 Play games and do coding...!🧑‍💻
-
-<br />
-
-<img align="center" alt="Coding" width="1000" height="500" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<br/>
-<hr style="width:50%;text-align:left;margin-left:0;color:red;background-color:#b60e21">
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/nimeshaanuhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimeshaanuhas" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nimesha-peragolla-7100bb286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimesha-lakshan-79400a165" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100089380237340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimesh.lakshan.14" height="30" width="40" /></a>
-</p>
+</div>
 
 <br/>
 
+## 🙋‍♂️ About Me
 
-<h3 align="left">Languages and Tools:</h3>
+```yaml
+name: Nimesha Lakshan Peragolla
+currently_learning: [Android Application Development, Vector Arts]
+looking_to: Collaborate with Open Source Projects
+philosophy: "Never stop Dreaming ✨"
+contact: nimeshaanuhas@gmail.com
+fun_fact: Plays games and codes in equal measure 🧑‍💻
+```
 
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev/?gclsrc=aw.ds&gclid=Cj0KCQjwoK2mBhDzARIsADGbjeqldoP5xiQsg75-ZkWaaHr58wLxsPzNSGdZ8Z5PZJ5djFPx82pM6UUaAnKAEALw_wcB" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><br><br>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>    <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>   <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
- </p>
-    
+<br/>
 
-<br />
-<hr style="width:50%;text-align:left;margin-left:0;color:red;background-color:#b60e21">
+<div align="center">
+<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="70%" alt="coding gif"/>
+</div>
 
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nimeshalakshan19259&&show_icons=true&title_color=b60e21&icon_color=b60e21&text_color=black&bg_color=white">
+## 🌐 Connect With Me
 
-<br /> 
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshalakshan19259&show_icons=true&locale=en&layout=compact" alt="nimeshalakshan19259" /><br><br>
+<a href="https://twitter.com/nimeshaanuhas" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-b60e21?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://www.linkedin.com/in/nimesha-peragolla-7100bb286/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-b60e21?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100089380237340" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-b60e21?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="mailto:nimeshaanuhas@gmail.com">
+  <img src="https://img.shields.io/badge/Email-b60e21?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshalakshan19259&" alt="nimeshalakshan19259" /></p><br>
+</div>
 
+<br/>
 
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,css,dart,flutter,html,js,mysql,python,react,php,azure,wordpress&theme=dark&perline=7" alt="skills"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nimeshalakshan19259&show_icons=true&title_color=b60e21&icon_color=b60e21&text_color=c9c9c9&bg_color=0d1117&border_color=b60e21&hide_border=false" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimeshalakshan19259&layout=compact&title_color=b60e21&text_color=c9c9c9&bg_color=0d1117&border_color=b60e21&hide_border=false" alt="Top Languages" width="39%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshalakshan19259&background=0d1117&ring=b60e21&fire=b60e21&currStreakLabel=b60e21&border=b60e21&hide_border=false" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nimeshalakshan19259&bg_color=0d1117&color=c9c9c9&line=b60e21&point=ffffff&area=true&hide_border=false" alt="activity graph" width="90%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 "Never stop Dreaming"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:b60e21&height=100&section=footer" width="100%"/>
+
+</div>
