@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Designer-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 <img src="https://img.shields.io/badge/QA-Engineer-6C63FF?style=for-the-badge"/>
 
