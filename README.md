@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:b60e21,100:1a1a1a&height=260&section=header&text=Nimesha%20Lakshan%20Peragolla&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Android%20Developer%20•%20UI%2FUX%20Designer%20•%20Future%20AI%20Engineer&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B60E21&center=true&vCenter=true&width=700&lines=Flutter+Android+Developer;UI%2FUX+Designer+%26+QA+Engineer;BSc+(Hons)+Software+Engineering+Graduate;Learning+Python+%26+Machine+Learning;Future+AI+Engineer+🤖" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B60E21&center=true&vCenter=true&width=700&lines=Flutter+Android+Developer;UI%2FUX+Designer+%26+QA+Engineer;BSc+(Hons)+Software+Engineering+Graduate;Learning+Python+%26+Machine+Learning;Future+AI+Engineer+" />
 
 <br>
 
