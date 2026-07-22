@@ -59,10 +59,7 @@ fun_fact: Plays games and codes in equal measure 🧑‍💻
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nimeshalakshan19259&show_icons=true&title_color=b60e21&icon_color=b60e21&text_color=c9c9c9&bg_color=0d1117&border_color=b60e21&hide_border=false" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimeshalakshan19259&layout=compact&title_color=b60e21&text_color=c9c9c9&bg_color=0d1117&border_color=b60e21&hide_border=false" alt="Top Languages" width="39%"/>
 
 <br/>
 
