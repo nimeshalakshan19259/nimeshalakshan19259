@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=nimeshalakshan19259&label=Profile+Views&style=for-the-badge&color=B60E21"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=nimeshalakshan19259&label=Profile+Views&style=for-the-badge&color=B60E21"/> -->
 
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
 
